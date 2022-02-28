@@ -7,4 +7,4 @@ A programação orientada a objetos (POO) propõe uma representação mais fáci
 
 <br>
 
-<img src="https://github.com/snovais/poo-cplusplus/blob/main/images/classes-and-objects-in-c.jpg" alt="Girl in a jacket" width="350" height="200">
+<img src="https://github.com/snovais/poo-cplusplus/blob/main/images/classes-and-objects-in-c.jpg" width="450" height="300" >
